@@ -377,7 +377,7 @@ and set up `gopls` for formatting code with `gofumpt`:
 
 ```vim
 let g:go_fmt_command="gopls"
-let g:go_gopls_gofumpt=1
+let g:go_gopls_gofumpt=v:true
 ```
 
 #### Govim
